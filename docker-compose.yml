@@ -1,0 +1,9 @@
+version: '3.0'
+services:
+  evobot:
+    container_name: evobot
+    build:
+      dockerfile: ./Dockerfile
+      context: .
+    restart: always
+    env_file: ./.env
