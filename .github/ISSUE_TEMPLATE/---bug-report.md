@@ -1,7 +1,7 @@
 ---
 name: "\U0001F41B Bug Report"
 about: Report a suspected bug or problem
-title: '🐛 '
+title: 'Bug: '
 labels: 'bug: unconfirmed'
 assignees: ''
 

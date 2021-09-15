@@ -1,7 +1,7 @@
 {
   "clip": {
     "description": "Riproduce una clip audio",
-    "usagesReply": "Utilizzo: {prefix}clip <nome>",
+    "usagesReply": "Utilizzo: /clip <nome>",
     "errorQueue": "Impossibile riprodurre la clip perché è presente una coda attiva.",
     "errorNotChannel": "Devi prima entrare in un canale vocale!"
   },
@@ -71,8 +71,7 @@
     "loopSong": "<@{author}> Il loop è ora {loop}",
     "stopSong": "<@{author}> ⏹ ha fermato la riproduzione!",
     "leaveChannel": "Esco dal canale vocale...",
-    "songNotFound": "Brano non trovato",
-    "songAccessErr": "Video is age restricted, private or unavailable"
+    "songNotFound": "Brano non trovato"
   },
   "playlist": {
     "description": "Riproduce una playlist da YouTube",
@@ -117,7 +116,7 @@
     "usageReply": "Usage: {prefix}{name} <Nome Video>",
     "errorAlreadyCollector": "Un raccoglitore di messaggi è già attivo in questo canale.",
     "errorNotChannel": "Devi prima entrare in un canale vocale!",
-    "resultEmbedTitle": "**Rispondi con il numero del brano che desideri riprodurre**",
+    "resultEmbedTtile": "**Rispondi con il numero del brano che desideri riprodurre**",
     "resultEmbedDesc": "Risultati per: {search}"
   },
   "shuffle": {

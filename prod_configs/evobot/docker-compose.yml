@@ -1,0 +1,7 @@
+version: '3.0'
+services:
+  evobot:
+    container_name: evobot
+    image: ghcr.io/drakumus/evobot-image:latest
+    restart: always
+    env_file: .env

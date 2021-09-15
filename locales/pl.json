@@ -1,7 +1,7 @@
 {
   "clip": {
     "description": "Odtwarza klip",
-    "SkładniasReply": "Składnia: {prefix}clip <nazwa>",
+    "SkładniasReply": "Składnia: /clip <nazwa>",
     "errorQueue": "Nie można odtworzyć klipu, ponieważ jest aktywna kolejka.",
     "errorNotChannel": "Musisz dołączyć na kanał głosowy!"
   },
@@ -71,8 +71,7 @@
     "loopSong": "<@{author}> Przełączył pętlę na: {loop}",
     "stopSong": "<@{author}> ⏹ Zatrzymał odtwarzanie!",
     "leaveChannel": "Opuszczanie kanału głosowego...",
-    "songNotFound": "Utwór nieznaleziony.",
-    "songAccessErr": "Film jest ograniczony wiekowo, prywatny lub niedostępny."
+    "songNotFound": "Utwór nie znaleziony."
   },
   "playlist": {
     "description": "Odtwarza listę odtwarzania z youtuba",
@@ -117,7 +116,7 @@
     "SkładniaReply": "Składnia: {prefix}{name} <nazwa nagrania>",
     "errorAlreadyCollector": "Wyszukiwacz muzyki jest już aktywny na tym kanale.",
     "errorNotChannel": "Musisz dołączyć do kanału głosowego!",
-    "resultEmbedTitle": "**Odpowiedz numerem utoworu który chcesz odtworzyć**",
+    "resultEmbedTtile": "**Odpowiedz numerem utoworu który chcesz odtworzyć**",
     "resultEmbedDesc": "Wyniki dla: {search}"
   },
   "shuffle": {
