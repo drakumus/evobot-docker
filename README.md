@@ -11,6 +11,7 @@
 2. YouTube Data API v3 Key **[Guide](https://developers.google.com/youtube/v3/getting-started)**  
 2.1 **(Optional)** Soundcloud Client ID **[Guide](https://github.com/zackradisic/node-soundcloud-downloader#client-id)**
 3. Node.js v14.0.0 or newer
+4. Github Secret "ENV_SECRET" with the envs on separate lines of the config parameters specified below
 
 ## 🚀 Getting Started 
 
