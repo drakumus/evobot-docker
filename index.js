@@ -12,6 +12,7 @@ const client = new Client({
   restTimeOffset: 0
 });
 
+
 client.login(TOKEN);
 client.commands = new Collection();
 client.prefix = PREFIX;
